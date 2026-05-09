@@ -1,4 +1,4 @@
-# restaurant-data-analysis-project
+# Restaurant-data-analysis-project
 Exploratory Data Analysis project using Python
 
 
